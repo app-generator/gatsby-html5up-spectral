@@ -1,7 +1,8 @@
 # [GatsbyJS Spectral](https://appseed.us/apps/gatsbyjs/gatsby-html5up-spectral)
 
 Open-source app built with GatsbyJS on top of HTML5Up Spectral design. 
-**Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-spectral) project.**
+
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
 
 <br />
 
